@@ -1,6 +1,6 @@
 # Hi, I'm Aman 👋
 
-**Data engineer & consultant** working on enterprise data systems: migrating legacy pipelines to the cloud, and cleaning and reconciling messy real-world data so people can trust it. I'm based in **Chicago**, I hold an **M.S. in Computer Science**, and I'm moving toward **quantitative finance and data science**.
+**Business Architect** working on enterprise data systems: migrating legacy pipelines to the cloud, and cleaning and reconciling messy real-world data so people can trust it. I'm based in **Chicago**, I hold an **M.S. in Computer Science**, and I'm moving toward **quantitative finance and data science**.
 
 I write about what I'm learning at [**The Cognitive Kombucha**](https://thecognitivekombucha.com).
 
