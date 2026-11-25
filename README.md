@@ -1,47 +1,79 @@
 # Hi, I'm Aman 👋
 
-**Business Architect** working on enterprise data systems: migrating legacy pipelines to the cloud, and cleaning and reconciling messy real-world data so people can trust it. I'm based in **Chicago**, I hold an **M.S. in Computer Science**, and I'm moving toward **quantitative finance and data science**.
+I'm a **Business Architect** based in Chicago, working at the intersection of data engineering, enterprise architecture and software systems. I hold an M.S. in Computer Science and am interested in how technology can solve complex institutional, economic and societal problems.
 
-I write about what I'm learning at [**The Cognitive Kombucha**](https://thecognitivekombucha.com).
+Professionally, I work on modernizing legacy systems, designing enterprise solutions and making complex data usable. Outside work, I explore computing, quantitative finance, infrastructure and the relationship between technology and society.
 
----
-
-### 💼 What I do
-
-- **Legacy → cloud migrations.** I've worked on SAS → PySpark conversions and large-scale data and system migrations to cloud platforms.
-- **Data quality.** I do transformation, record matching and cleaning, including data extracted from scanned documents with OCR.
-- **Public-sector systems.** I deliver enterprise data work in government environments.
-- **Leading builds.** I lead a tenant portal with a FastAPI backend, in-house document signing and email OTP verification, and I coordinate the frontend and backend developers.
+I document my experiments, research and occasional thoughts at [**The Cognitive Kombucha**](https://thecognitivekombucha.com).
 
 ---
 
-### 🔨 Featured projects
+### What I work on
+
+- **Data engineering:** Legacy-to-cloud migrations, SAS-to-PySpark conversions, data transformation and reconciliation.
+- **Enterprise architecture:** Modernizing legacy systems, designing data models, integrations and application architectures.
+- **Public-sector technology:** Working on enterprise systems that support government operations and public services.
+- **Software development:** Building and coordinating applications involving APIs, authentication, document processing and workflow automation.
+
+---
+
+### Selected projects
 
 **[Math Drill](https://github.com/aman25singh/math-drill)** · Python, pandas, matplotlib, Tkinter
-A timed arithmetic trainer that logs every answer with millisecond timing and engineers features from the operands (digits, carries, borrows, operand size). The goal is to show *why* you're slow, not just your score. It renders an eight-panel analytics dashboard and has a pytest suite that runs in GitHub Actions CI across Python 3.10–3.12.
 
-**[The Cognitive Kombucha](https://github.com/aman25singh/website)** · Astro, TypeScript, GitHub Pages
-My personal site and notebook. It's static, Markdown-driven, and published straight from Git. It has build-time content validation, regression tests, RSS, a sitemap, and Dependabot.
+An arithmetic training application that approaches learning as a data problem. It captures millisecond-level response times, engineers features from arithmetic operands and analyzes performance to understand why certain problems take longer to solve.
 
-**[Mission Board](https://github.com/xelaaaa999/mission-board)** · TypeScript, Vercel *(collaborator)*
-A web app I contributed to. [Live demo →](https://missionboard-peach.vercel.app)
+Includes an eight-panel analytics dashboard, automated testing and GitHub Actions CI.
 
----
+**[The Cognitive Kombucha](https://github.com/aman25singh/website)** · Astro, TypeScript
 
-### 🧰 Tools
+My personal website and public notebook for technical experiments, essays and ideas. Built around a Markdown-driven publishing workflow with content validation, regression testing and automated dependency management.
 
-`Python` · `PySpark` · `pandas` · `SAS` · `SQL` · `FastAPI` · `TypeScript` · `Astro` · `pytest` · `Git` · `GitHub Actions`
+**[Mission Board](https://github.com/xelaaaa999/mission-board)** · TypeScript · Collaborator
 
----
-
-### 🌱 Currently
-
-- Building quantitative finance foundations (CQF)
-- Working on Python-based trading research and backtesting
+A collaborative web application project. [Live demo](https://missionboard-peach.vercel.app).
 
 ---
 
-### 📫 Find me
+### Areas of interest
 
-- 🌐 [thecognitivekombucha.com](https://thecognitivekombucha.com)
-- 💼 LinkedIn: www.linkedin.com/in/aman-singh-thakur-a78b21193
+- Data engineering and distributed computing
+- Quantitative finance and computational research
+- Networking, infrastructure and security
+- Digital public infrastructure and technology policy
+- Open-source software
+
+---
+
+### Technologies
+
+**Languages:** Python, SQL, TypeScript, SAS
+
+**Data:** PySpark, pandas, Databricks, BigQuery
+
+**Cloud & platforms:** Google Cloud, Microsoft Azure, Power Platform
+
+**Development:** FastAPI, Astro, Linux, Git, pytest, GitHub Actions
+
+---
+
+### Currently exploring
+
+- Quantitative finance through the CQF program
+- Python-based financial research and backtesting
+- Cloud data engineering and distributed data processing
+- Self-hosted infrastructure and computer networking
+- Resilient and auditable digital public infrastructure
+
+---
+
+### Certifications
+
+- Databricks Certified Data Engineer Associate
+
+---
+
+### Find me
+
+- [Personal website](https://thecognitivekombucha.com)
+- [LinkedIn](https://www.linkedin.com/in/aman-singh-thakur-a78b21193)
