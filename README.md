@@ -44,5 +44,4 @@ A web app I contributed to. [Live demo →](https://missionboard-peach.vercel.ap
 ### 📫 Find me
 
 - 🌐 [thecognitivekombucha.com](https://thecognitivekombucha.com)
-- 💼 LinkedIn: *add link*
-- ✉️ Email: *add email*
+- 💼 LinkedIn: www.linkedin.com/in/aman-singh-thakur-a78b21193
